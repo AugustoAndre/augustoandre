@@ -13,6 +13,7 @@
 ![alt text](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![full-stack-development](https://user-images.githubusercontent.com/66078558/144394516-90321964-32ac-489b-8652-957ae7f5ce04.gif)
+<br><br>
 
 
 
@@ -20,19 +21,13 @@
 ![alt text](https://img.shields.io/badge/Node.Js-004E00?style=for-the-badge&logo=node.js&logoColor=white)
 ![alt text](https://img.shields.io/badge/React.JS-000000?style=for-the-badge&logo=react&logoColor=white)
 ![alt text](https://img.shields.io/badge/ReactNative-000000?style=for-the-badge&logo=react&logoColor=white)
+<br><br>
 
 ## 🔍 Where You Can Find Me
 
 [![Foo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-andré-780217208/) [![Foo](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=0077B5)](https://www.facebook.com/fano.andre/) 
 [![Foo](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+244941914208)
 
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
-</p>
 
 <br><br>
  
