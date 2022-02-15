@@ -27,6 +27,13 @@
 [![Foo](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+244941914208)
 
 
-<img  height='175'  src='https://github-readme-stats.vercel.app/api/top-langs/?username=misaellopes01&layout=compact&theme=react'> <img  height='175'  src='https://github-readme-stats.vercel.app/api?username=misaellopes01&show_icons=true&theme=react'>
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+</p>
+
+<br><br>
  
 ## 🚀 NeverStopLearning
