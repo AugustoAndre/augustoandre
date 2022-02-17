@@ -27,6 +27,7 @@
 
 [![Foo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-andré-780217208/) [![Foo](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=0077B5)](https://www.facebook.com/fano.andre/) 
 [![Foo](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+244941914208)
+[![Foo](https://img.shields.io/badge/fanoandre@gmail.com-db4a39?style=for-the-badge&logo=gmail&logoColor=white)]()
 
 
 <br><br>
