@@ -10,7 +10,6 @@
 ![alt text](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![alt text](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![alt text](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![alt text](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![full-stack-development](https://user-images.githubusercontent.com/66078558/144394516-90321964-32ac-489b-8652-957ae7f5ce04.gif)
 <br><br>
